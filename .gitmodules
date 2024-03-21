@@ -1,0 +1,3 @@
+[submodule "Test/MandelbrotTest"]
+	path = Test/MandelbrotTest
+	url = https://github.com/paul-schein/MandelbrotTest
